@@ -1115,7 +1115,7 @@ header.fixed_header.sticky .hamburger__inner::after {
 .headroom--not-top .hamburger__inner,
 .headroom--not-top .hamburger__inner::before,
 .headroom--not-top .hamburger__inner::after {
-  background-color: #333;
+  background-color: #fff8f8;
 }
 
 /* Hamburger with close */
