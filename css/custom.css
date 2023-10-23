@@ -5,3 +5,12 @@
     height: 90px !important;
     width: 90px !important;
 }
+
+.whatsapp-icon {
+    position: fixed;
+    left: 30px;
+    bottom: 40px;
+    width: 60px;
+    height: 60px;
+    z-index: 999;
+}
