@@ -2102,7 +2102,7 @@ img.jarallax-img.kenburns-2 {
 
 /*-------- Footer --------*/
 footer {
-  background-color: #24262d;
+  background-color: #0D1654;
   position: relative;
   color: #fff;
 }
@@ -2141,7 +2141,7 @@ footer .footer_bg .gradient_over {
   z-index: 3;
 }
 footer .move_content {
-  margin-top: -80px;
+  margin-top: 30px;
   position: relative;
   z-index: 4;
   padding-bottom: 120px;
