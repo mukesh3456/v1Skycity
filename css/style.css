@@ -275,7 +275,7 @@ a:hover, a:focus {
 
 .title small {
   text-transform: uppercase;
-  color: #978667;
+  color: #FDC85E;
   letter-spacing: 3px;
   font-weight: 600;
   display: block;
@@ -366,7 +366,7 @@ a.btn_1,
 .btn_1 {
   border: none;
   color: #fff;
-  background: #ecaa1c;
+  background: #FDC85E;
   outline: none;
   cursor: pointer;
   display: inline-flex;
@@ -945,8 +945,8 @@ header .logo_normal {
    height: 130px;
 }
 .logo_sticky{
-  width: 70px;
-  height: 70px;
+  width: 90px;
+  height: 90px;
 }
 header.reveal_header .container-fluid {
   padding-right: 25px;
