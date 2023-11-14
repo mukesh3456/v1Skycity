@@ -410,7 +410,7 @@ a.btn_1.outline.white,
 }
 a.btn_1.outline:hover,
 .btn_1.outline:hover {
-  background-color: #4b514d;
+  background-color: #FDC85E;
   border: 2px solid transparent;
   color: #fff;
 }
@@ -431,7 +431,7 @@ a.btn_1.outline:hover,
   margin: 0;
   width: 2.6rem;
   height: 2.6rem;
-  background: #978667;
+  background: #FDC85E;
   border-radius: 1.625rem;
 }
 .btn_4.learn-more .circle .icon {
@@ -542,7 +542,7 @@ a.animated_link.active::before {
 .mouse:before {
   width: 32px;
   height: 54px;
-  background-color: #222a30;
+  background-color: #FDC85E;
   border-radius: 100px;
 }
 
@@ -2359,7 +2359,7 @@ footer .copy {
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   border-radius: 5px;
-  margin: 15px auto 0;
+  margin: 350px auto 0;
   position: relative;
   -webkit-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.3);
   -moz-box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.3);
@@ -2453,7 +2453,7 @@ footer .copy {
   -moz-border-radius: 3px;
   -ms-border-radius: 3px;
   border-radius: 3px;
-  background-color: #4b514d;
+  background-color: #FDC85E;
   margin-right: 5px;
 }
 @media (max-width: 991px) {
